@@ -13,14 +13,16 @@
   
 ## Wiring
 
-  Arduino         microSD
-  Vcc-------------Vcc
-  GND-------------GND
-  15--------------Sck
-  14--------------MISO
-  16--------------MOSI
-  4---------------CS
-  
+Pro Micro     | microSD 
+------------- | -------------
+Vcc | Vcc
+GND  | GND
+15  | SCK
+14  | MISO
+16  | MOSI
+4    | CS
+
+
   This is the general layout even though the board is different.
   
 <img src="{{ "/fritzing.png" | prepend: site.baseurl }}" />
