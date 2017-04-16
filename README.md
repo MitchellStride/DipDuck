@@ -23,12 +23,20 @@ GND  | GND
 4    | CS
 
 
-  This is the general layout even though the board is different.
+  This is the general layout even though the pro micro board is a bit different.
+  
   
 <img src="{{ "/fritzing.png" | prepend: site.baseurl }}" />
 
+
 This was the end result.
- 
+
+
 <img src="{{ "/dipduck2.jpg" | prepend: site.baseurl }}" />
+
+## Code & Scripts
+
+The code can be found on Seytonic's website and I created my own scripts to use with this duck.
+
 
 
