@@ -32,7 +32,7 @@ GND  | GND
 This was the end result.
 
 
-<img src="{{ "/dipduck2.jpg" | prepend: site.baseurl }}" />
+<img src="{{ "/dipduck2.jpeg" | prepend: site.baseurl }}" />
 
 ## Code & Scripts
 
