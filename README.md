@@ -37,3 +37,5 @@ This was the end result.
 ## Code & Scripts
 
 The code can be found on Seytonic's website and I created my own scripts to use with this duck.
+
+<a href="http://mitchellstride.com/">HOME</a>
