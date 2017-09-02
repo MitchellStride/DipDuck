@@ -1,6 +1,7 @@
 <img src="{{ "/pictures/dipduck.jpg" | prepend: site.baseurl }}" />
 ## Purpose
-    This project is a small HID device that can emulate a keyboard and input a large amount of keystrokes in a short amount of time. It can be used to automate work, execute scripts, or capture data.
+   This project is a small HID device that can emulate a keyboard and input a large amount of keystrokes in a short amount of time. It can be used to automate work, execute scripts, or capture data.
+
 <br>  A slight modifcation on Seytonic's orginal design. It is a USB Rubber Ducky w/ microSD support and dip switches to select between various scripts.
 
 ## BOM
