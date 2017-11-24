@@ -1,6 +1,7 @@
 <img src="{{ "/pictures/dipduck.jpg" | prepend: site.baseurl }}" />
 ## Purpose
-  A slight modifcation on Seytonic's orginal design. It is a USB Rubber Ducky w/ microSD support and dip switches to select between various scripts. A Rubby Ducky takes advantage of the Pro Micro's Atmel ATMEGA32u4's HID compliance. It can act as a keyboard or mouse and input keystrokes at lightning fast speeds. It can be used to automate work, inject scripts, and to modify settings.
+   This project is a small HID device that can emulate a keyboard and input a large amount of keystrokes in a short amount of time. It can be used to automate work, execute scripts, or capture data.
+<br>  A slight modifcation on Seytonic's orginal design. It is a USB Rubber Ducky w/ microSD support and dip switches to select between various scripts.
 
 ## BOM
   - Arduino Pro Micro (lenardo - atmega32u4)
@@ -36,4 +37,10 @@ This was the end result.
 
 ## Code & Scripts
 
+<<<<<<< HEAD
 The code can be found on my github. It takes Duck Scripts and transfers them into the appropriate actions for the computer. I have used this to automate network configurations at work.
+=======
+The code can be found on Seytonic's website and I created my own scripts to use with this duck.
+
+<a href="http://mitchellstride.com/">HOME</a>
+>>>>>>> 9973435a9b2e7cccaac90ba8f30f146cfb6f5374
