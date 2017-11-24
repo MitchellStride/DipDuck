@@ -1,15 +1,15 @@
 <img src="{{ "/pictures/dipduck.jpg" | prepend: site.baseurl }}" />
 ## Purpose
-  A slight modifcation on Seytonic's orginal design. It is a USB Rubber Ducky w/ microSD support and dip switches to select between various scripts.
+  A slight modifcation on Seytonic's orginal design. It is a USB Rubber Ducky w/ microSD support and dip switches to select between various scripts. A Rubby Ducky takes advantage of the Pro Micro's Atmel ATMEGA32u4's HID compliance. It can act as a keyboard or mouse and input keystrokes at lightning fast speeds. It can be used to automate work, inject scripts, and to modify settings.
 
 ## BOM
-  - Arduino Pro Micro (lenardo - atmega23u4)
+  - Arduino Pro Micro (lenardo - atmega32u4)
   - microSD card reader
   - microSD card
   - otg cable
 
 ## Plan
-  After testing functionality on a breadboard, I plan to solder the wires on the boards then hotglue them together in a similar fashion as Seytonic.
+  After testing functionality on a breadboard, I soldered the wires to connect the boards and then hotglued them together to create a small solid form factor.
 
 ## Wiring
 
@@ -36,4 +36,4 @@ This was the end result.
 
 ## Code & Scripts
 
-The code can be found on Seytonic's website and I created my own scripts to use with this duck.
+The code can be found on my github. It takes Duck Scripts and transfers them into the appropriate actions for the computer. I have used this to automate network configurations at work.
