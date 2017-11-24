@@ -41,4 +41,3 @@ The code can be found on my github. It takes Duck Scripts and transfers them int
 
 
 <a href="http://mitchellstride.com/">HOME</a>
->>>>>>> 9973435a9b2e7cccaac90ba8f30f146cfb6f5374
